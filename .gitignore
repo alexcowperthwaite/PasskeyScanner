@@ -1,0 +1,16 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+.settings
+lib/.settings
+lib/bin
+lib/src/test
+lib/build/classes
+lib/build/generated
+lib/build/resources
+lib/build/tmp
+lib/build/libs/lib
+lib/build/libs/lib.zip
+
+# Ignore Gradle build output directory
+build
+gradle
